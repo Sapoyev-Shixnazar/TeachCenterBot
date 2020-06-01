@@ -5,4 +5,4 @@
  * Date: 02.06.2020
  * Time: 0:23
  */
-echo 'hello';
+echo 'salomlar';
